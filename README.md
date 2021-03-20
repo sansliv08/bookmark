@@ -4,5 +4,5 @@ Keep your bookmarks in just one place. This allows:
 - Delete bookmark
 - Save in LocalStorage
 
-#Usage
+# Usage
 Juste browse to https://sansliv08.github.io/bookmark/
