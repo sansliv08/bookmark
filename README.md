@@ -1,6 +1,6 @@
 # Bookmark App
 Keep your bookmarks in just one place. This allows:
-- Add bookmark (name and http)
+- Add a new bookmark (name and http)
 - Delete bookmark
 - Save in LocalStorage
 
